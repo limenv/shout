@@ -17,7 +17,7 @@ yum install nodejs npm
 
 Secondly, you need to grab our sources. Run these commands you can without root access.
 ```bash
-git clone https://github.com/pr0xymuty/shout
+git clone https://github.com/limenv/shout
 cd shout
 ```
 Thirdly, build it :)
