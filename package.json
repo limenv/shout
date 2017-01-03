@@ -1,0 +1,21 @@
+{
+  "name": "Shout",
+  "version": "0.0.1",
+  "description": "Shout Web client",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/pr0xymuty/shout",
+  "keywords": [
+    "Shout",
+    "Client",
+    "For",
+    "Desktop"
+  ],
+  "author": "pr0xymuty",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
